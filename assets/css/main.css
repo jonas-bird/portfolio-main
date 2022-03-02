@@ -121,7 +121,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #0764c4;
+		color: #06c;
 		font-weight: 700;
 	}
 
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #0764c4;
+		color: #06c;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1785,12 +1785,12 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #06c;
 		font-size: 3.5em;
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #333;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -2402,7 +2402,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				background: #06c;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2700,7 +2700,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #06c;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -3076,7 +3076,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #06c;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
